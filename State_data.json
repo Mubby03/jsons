@@ -7,10 +7,8 @@
         "Year": "2023",
         "Population": 1406239,
         "Slug State": "FCT",
-        "State fuel price": {
-          "Current NNPC Pump Price": 194,
-          "New Pump Price": 537
-        }
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 537
       },
       {
         "ID State": "2",
@@ -19,10 +17,8 @@
         "Year": "2023",
         "Population": 1869377,
         "Slug State": "Nasarawa",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 537
-        }
+        "Old Fuel Price": 189,
+        "Current Fuel Price": 537
       },
       {
         "ID State": "3",
@@ -31,10 +27,8 @@
         "Year": "2023",
         "Population": 3206531,
         "Slug State": "Plateau",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 537
-        }
+        "Old Fuel Price": 189,
+        "Current Fuel Price": 537
       },
       {
         "ID State": "4",
@@ -43,10 +37,8 @@
         "Year": "2023",
         "Population": 2365353,
         "Slug State": "Kwara",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 515
-        }
+        "Old Fuel Price": 189,
+        "Current Fuel Price": 515
       },
       {
         "ID State": "5",
@@ -55,46 +47,38 @@
         "Year": "2023",
         "Population": 3314043,
         "Slug State": "Kogi",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 537
-        }
+        "Old Fuel Price": 189,
+        "Current Fuel Price": 537
       },
       {
         "ID State": "6",
         "State": "Makurdi",
         "ID Year": 2023,
         "Year": "2023",
-        "Population": 4253641,
+        "Population": 2952122,
         "Slug State": "Benue",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 537
-        }
+        "Old Fuel Price": 189,
+        "Current Fuel Price": 537
       },
       {
         "ID State": "7",
         "State": "Minna",
         "ID Year": 2023,
         "Year": "2023",
-        "Population": 3954772,
+        "Population": 3491940,
         "Slug State": "Niger",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 537
-        }
+        "Old Fuel Price": 189,
+        "Current Fuel Price": 537
       },
       {
         "ID State": "8",
         "State": "Yola",
         "ID Year": 2023,
         "Year": "2023",
-        "Population": 3178950,
+        "Population": 3995350,
         "Slug State": "Adamawa",
-        "State fuel price": {
-          "Current NNPC Pump Price": 199,
-          "New Pump Price": 550
-        }
+        "Old Fuel Price": 199,
+        "Current Fuel Price": 550
       },
       {
         "ID State": "9",
@@ -103,22 +87,18 @@
         "Year": "2023",
         "Population": 2294800,
         "Slug State": "Taraba",
-        "State fuel price": {
-          "Current NNPC Pump Price": 199,
-          "New Pump Price": 550
-        }
+        "Old Fuel Price": 199,
+        "Current Fuel Price": 550
       },
       {
         "ID State": "10",
         "State": "Bauchi",
         "ID Year": 2023,
         "Year": "2023",
-        "Population": 4653066,
+        "Population": 4703066,
         "Slug State": "Bauchi",
-        "State fuel price": {
-          "Current NNPC Pump Price": 199,
-          "New Pump Price": 550
-        }
+        "Old Fuel Price": 199,
+        "Current Fuel Price": 550
       },
       {
         "ID State": "11",
@@ -127,10 +107,8 @@
         "Year": "2023",
         "Population": 2365040,
         "Slug State": "Gombe",
-        "State fuel price": {
-          "Current NNPC Pump Price": 199,
-          "New Pump Price": 550
-        }
+        "Old Fuel Price": 199,
+        "Current Fuel Price": 550
       },
       {
         "ID State": "12",
@@ -139,10 +117,8 @@
         "Year": "2023",
         "Population": 4171104,
         "Slug State": "Borno",
-        "State fuel price": {
-          "Current NNPC Pump Price": 199,
-          "New Pump Price": 557
-        }
+        "Old Fuel Price": 199,
+        "Current Fuel Price": 557
       },
       {
         "ID State": "13",
@@ -151,10 +127,8 @@
         "Year": "2023",
         "Population": 2321339,
         "Slug State": "Yobe",
-        "State fuel price": {
-          "Current NNPC Pump Price": 199,
-          "New Pump Price": 557
-        }
+        "Old Fuel Price": 199,
+        "Current Fuel Price": 557
       },
       {
         "ID State": "14",
@@ -163,10 +137,8 @@
         "Year": "2023",
         "Population": 9401288,
         "Slug State": "Kano",
-        "State fuel price": {
-          "Current NNPC Pump Price": 194,
-          "New Pump Price": 540
-        }
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
       },
       {
         "ID State": "15",
@@ -175,10 +147,8 @@
         "Year": "2023",
         "Population": 6113503,
         "Slug State": "Kaduna",
-        "State fuel price": {
-          "Current NNPC Pump Price": 194,
-          "New Pump Price": 540
-        }
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
       },
       {
         "ID State": "16",
@@ -187,10 +157,8 @@
         "Year": "2023",
         "Population": 5801584,
         "Slug State": "Katsina",
-        "State fuel price": {
-          "Current NNPC Pump Price": 194,
-          "New Pump Price": 540
-        }
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
       },
       {
         "ID State": "17",
@@ -199,10 +167,8 @@
         "Year": "2023",
         "Population": 3702676,
         "Slug State": "Sokoto",
-        "State fuel price": {
-          "Current NNPC Pump Price": 194,
-          "New Pump Price": 540
-        }
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
       },
       {
         "ID State": "18",
@@ -211,10 +177,8 @@
         "Year": "2023",
         "Population": 4361002,
         "Slug State": "Jigawa",
-        "State fuel price": {
-          "Current NNPC Pump Price": 194,
-          "New Pump Price": 540
-        }
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
       },
       {
         "ID State": "19",
@@ -223,10 +187,8 @@
         "Year": "2023",
         "Population": 3256541,
         "Slug State": "Kebbi",
-        "State fuel price": {
-          "Current NNPC Pump Price": 194,
-          "New Pump Price": 545
-        }
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 545
       },
       {
         "ID State": "20",
@@ -235,190 +197,208 @@
         "Year": "2023",
         "Population": 3278873,
         "Slug State": "Zamfara",
-        "State fuel price": {
-          "Current NNPC Pump Price": 194,
-          "New Pump Price": 540
-        }
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
       },
       {
         "ID State": "21",
-        "State": "Umahia",
-        "ID Year": 2023,
-        "Year": "2023",
-        "Population": 2845380,
-        "Slug State": "Abia",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 515
-        }
-      },
-      {
-        "ID State": "22",
-        "State": "Owerri",
-        "ID Year": 2023,
-        "Year": "2023",
-        "Population": 3927563,
-        "Slug State": "Imo",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 515
-        }
-      },
-      {
-        "ID State": "23",
-        "State": "Awka",
-        "ID Year": 2023,
-        "Year": "2023",
-        "Population": 4177828,
-        "Slug State": "Anambra",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 520
-        }
-      },
-      {
-        "ID State": "24",
-        "State": "Enugu",
-        "ID Year": 2023,
-        "Year": "2023",
-        "Population": 3267837,
-        "Slug State": "Enugu",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 520
-        }
-      },
-      {
-        "ID State": "25",
-        "State": "Abakaliki",
-        "ID Year": 2023,
-        "Year": "2023",
-        "Population": 2176947,
-        "Slug State": "Ebonyi",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 520
-        }
-      },
-      {
-        "ID State": "26",
-        "State": "Port Harcourt",
-        "ID Year": 2023,
-        "Year": "2023",
-        "Population": 5198716,
-        "Slug State": "Rivers",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 511
-        }
-      },
-      {
-        "ID State": "27",
-        "State": "Uyo",
-        "ID Year": 2023,
-        "Year": "2023",
-        "Population": 3902051,
-        "Slug State": "Akwa-Ibom",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 520
-        }
-      },
-      {
-        "ID State": "28",
-        "State": "Calabar",
-        "ID Year": 2023,
-        "Year": "2023",
-        "Population": 2892988,
-        "Slug State": "Cross-River",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 511
-        }
-      },
-      {
-        "ID State": "29",
-        "State": "Yenagoa",
-        "ID Year": 2023,
-        "Year": "2023",
-        "Population": 1704515,
-        "Slug State": "Bayelsa",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 511
-        }
-      },
-      {
-        "ID State": "30",
-        "State": "Ado-Ekiti",
-        "ID Year": 2023,
-        "Year": "2023",
-        "Population": 2398957,
-        "Slug State": "Ekiti",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 515
-        }
-      },
-      {
-        "ID State": "31",
         "State": "Akure",
         "ID Year": 2023,
         "Year": "2023",
         "Population": 3460877,
         "Slug State": "Ondo",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 515
-        }
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
       },
       {
-        "ID State": "32",
+        "ID State": "22",
+        "State": "Ado-Ekiti",
+        "ID Year": 2023,
+        "Year": "2023",
+        "Population": 2398957,
+        "Slug State": "Ekiti",
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
+      },
+      {
+        "ID State": "23",
         "State": "Osogbo",
         "ID Year": 2023,
         "Year": "2023",
         "Population": 3416959,
         "Slug State": "Osun",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 515
-        }
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
       },
       {
-        "ID State": "33",
-        "State": "Abeokuta",
-        "ID Year": 2023,
-        "Year": "2023",
-        "Population": 3751140,
-        "Slug State": "Ogun",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 515
-        }
-      },
-      {
-        "ID State": "34",
+        "ID State": "24",
         "State": "Ibadan",
         "ID Year": 2023,
         "Year": "2023",
         "Population": 5580894,
         "Slug State": "Oyo",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 515
-        }
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
+      },
+      {
+        "ID State": "25",
+        "State": "Akwa Ibom",
+        "ID Year": 2023,
+        "Year": "2023",
+        "Population": 3902051,
+        "Slug State": "Akwa-Ibom",
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
+      },
+      {
+        "ID State": "26",
+        "State": "Uyo",
+        "ID Year": 2023,
+        "Year": "2023",
+        "Population": 3902051,
+        "Slug State": "Akwa-Ibom",
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
+      },
+      {
+        "ID State": "27",
+        "State": "Calabar",
+        "ID Year": 2023,
+        "Year": "2023",
+        "Population": 2892988,
+        "Slug State": "Cross-River",
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
+      },
+      {
+        "ID State": "28",
+        "State": "Enugu",
+        "ID Year": 2023,
+        "Year": "2023",
+        "Population": 3267837,
+        "Slug State": "Enugu",
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
+      },
+      {
+        "ID State": "29",
+        "State": "Awka",
+        "ID Year": 2023,
+        "Year": "2023",
+        "Population": 4177828,
+        "Slug State": "Anambra",
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
+      },
+      {
+        "ID State": "30",
+        "State": "Owerri",
+        "ID Year": 2023,
+        "Year": "2023",
+        "Population": 3927563,
+        "Slug State": "Imo",
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
+      },
+      {
+        "ID State": "31",
+        "State": "Umuahia",
+        "ID Year": 2023,
+        "Year": "2023",
+        "Population": 3833873,
+        "Slug State": "Abia",
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
+      },
+      {
+        "ID State": "32",
+        "State": "Port Harcourt",
+        "ID Year": 2023,
+        "Year": "2023",
+        "Population": 5707281,
+        "Slug State": "Rivers",
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
+      },
+      {
+        "ID State": "33",
+        "State": "Yenagoa",
+        "ID Year": 2023,
+        "Year": "2023",
+        "Population": 2396886,
+        "Slug State": "Bayelsa",
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
+      },
+      {
+        "ID State": "34",
+        "State": "Makurdi",
+        "ID Year": 2023,
+        "Year": "2023",
+        "Population": 2952122,
+        "Slug State": "Benue",
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
       },
       {
         "ID State": "35",
-        "State": "Akute",
+        "State": "Maiduguri",
         "ID Year": 2023,
         "Year": "2023",
-        "Population": 9113605,
-        "Slug State": "Lagos",
-        "State fuel price": {
-          "Current NNPC Pump Price": 189,
-          "New Pump Price": 515
-        }
+        "Population": 4171104,
+        "Slug State": "Borno",
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
+      },
+      {
+        "ID State": "36",
+        "State": "Ado-Ekiti",
+        "ID Year": 2023,
+        "Year": "2023",
+        "Population": 2398957,
+        "Slug State": "Ekiti",
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
+      },
+      {
+        "ID State": "37",
+        "State": "Osogbo",
+        "ID Year": 2023,
+        "Year": "2023",
+        "Population": 3416959,
+        "Slug State": "Osun",
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
+      },
+      {
+        "ID State": "38",
+        "State": "Ibadan",
+        "ID Year": 2023,
+        "Year": "2023",
+        "Population": 5580894,
+        "Slug State": "Oyo",
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
+      },
+      {
+        "ID State": "39",
+        "State": "Akure",
+        "ID Year": 2023,
+        "Year": "2023",
+        "Population": 3460877,
+        "Slug State": "Ondo",
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
+      },
+      {
+        "ID State": "40",
+        "State": "Akwa Ibom",
+        "ID Year": 2023,
+        "Year": "2023",
+        "Population": 3902051,
+        "Slug State": "Akwa-Ibom",
+        "Old Fuel Price": 194,
+        "Current Fuel Price": 540
       }
     ]
   }
