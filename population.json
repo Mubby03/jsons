@@ -7,6 +7,10 @@
             "total": 3178950,
             "male": 1578700,
             "female": 1600250
+          },
+          "employment": {
+            "employed": 2210800,
+            "unemployed": 968150
           }
         },
         {
@@ -15,6 +19,10 @@
             "total": 3805200,
             "male": 1938700,
             "female": 1866500
+          },
+          "employment": {
+            "employed": 2754800,
+            "unemployed": 1050400
           }
         },
         {
@@ -23,6 +31,10 @@
             "total": 5278400,
             "male": 2665200,
             "female": 2613200
+          },
+          "employment": {
+            "employed": 3957300,
+            "unemployed": 1321100
           }
         },
         {
@@ -31,6 +43,10 @@
             "total": 4487700,
             "male": 2218700,
             "female": 2269000
+          },
+          "employment": {
+            "employed": 3054100,
+            "unemployed": 1433600
           }
         },
         {
@@ -39,6 +55,10 @@
             "total": 6583200,
             "male": 3345800,
             "female": 3237400
+          },
+          "employment": {
+            "employed": 4229500,
+            "unemployed": 2353700
           }
         },
         {
@@ -47,6 +67,10 @@
             "total": 2224200,
             "male": 1128900,
             "female": 1095300
+          },
+          "employment": {
+            "employed": 1435200,
+            "unemployed": 788000
           }
         },
         {
@@ -55,6 +79,10 @@
             "total": 6082000,
             "male": 3032300,
             "female": 3049700
+          },
+          "employment": {
+            "employed": 4360500,
+            "unemployed": 1721500
           }
         },
         {
@@ -63,6 +91,10 @@
             "total": 6262600,
             "male": 3175600,
             "female": 3087000
+          },
+          "employment": {
+            "employed": 3814100,
+            "unemployed": 2448500
           }
         },
         {
@@ -71,6 +103,10 @@
             "total": 3910300,
             "male": 1976300,
             "female": 1934000
+          },
+          "employment": {
+            "employed": 2856800,
+            "unemployed": 1053500
           }
         },
         {
@@ -79,6 +115,10 @@
             "total": 5586100,
             "male": 2818300,
             "female": 2767800
+          },
+          "employment": {
+            "employed": 4214900,
+            "unemployed": 1371200
           }
         },
         {
@@ -87,6 +127,10 @@
             "total": 2910500,
             "male": 1455600,
             "female": 1454900
+          },
+          "employment": {
+            "employed": 1906400,
+            "unemployed": 1004100
           }
         },
         {
@@ -95,6 +139,10 @@
             "total": 4643600,
             "male": 2348700,
             "female": 2294900
+          },
+          "employment": {
+            "employed": 3305200,
+            "unemployed": 1338400
           }
         },
         {
@@ -103,6 +151,10 @@
             "total": 2838700,
             "male": 1423700,
             "female": 1415000
+          },
+          "employment": {
+            "employed": 1982400,
+            "unemployed": 856300
           }
         },
         {
@@ -111,6 +163,10 @@
             "total": 3967200,
             "male": 1972400,
             "female": 1994800
+          },
+          "employment": {
+            "employed": 2956100,
+            "unemployed": 1011100
           }
         },
         {
@@ -119,6 +175,10 @@
             "total": 2958000,
             "male": 1484700,
             "female": 1473300
+          },
+          "employment": {
+            "employed": 2165300,
+            "unemployed": 792700
           }
         },
         {
@@ -127,6 +187,10 @@
             "total": 4753400,
             "male": 2367700,
             "female": 2385700
+          },
+          "employment": {
+            "employed": 3304800,
+            "unemployed": 1448600
           }
         },
         {
@@ -135,6 +199,10 @@
             "total": 5707800,
             "male": 2907600,
             "female": 2800200
+          },
+          "employment": {
+            "employed": 3812600,
+            "unemployed": 1895200
           }
         },
         {
@@ -143,6 +211,10 @@
             "total": 8046800,
             "male": 4070700,
             "female": 3976100
+          },
+          "employment": {
+            "employed": 5839500,
+            "unemployed": 2207300
           }
         },
         {
@@ -151,6 +223,10 @@
             "total": 14099000,
             "male": 7094300,
             "female": 7004700
+          },
+          "employment": {
+            "employed": 10031200,
+            "unemployed": 4067800
           }
         },
         {
@@ -159,6 +235,10 @@
             "total": 7822200,
             "male": 3929200,
             "female": 3893000
+          },
+          "employment": {
+            "employed": 5341800,
+            "unemployed": 2480400
           }
         },
         {
@@ -167,6 +247,10 @@
             "total": 4645300,
             "male": 2346300,
             "female": 2299000
+          },
+          "employment": {
+            "employed": 3214600,
+            "unemployed": 1430700
           }
         },
         {
@@ -175,6 +259,10 @@
             "total": 4822700,
             "male": 2420800,
             "female": 2401900
+          },
+          "employment": {
+            "employed": 3520900,
+            "unemployed": 1301800
           }
         },
         {
@@ -183,6 +271,10 @@
             "total": 3413400,
             "male": 1720100,
             "female": 1693300
+          },
+          "employment": {
+            "employed": 2446700,
+            "unemployed": 966700
           }
         },
         {
@@ -191,6 +283,10 @@
             "total": 13992000,
             "male": 7065900,
             "female": 6926100
+          },
+          "employment": {
+            "employed": 10568200,
+            "unemployed": 3423800
           }
         },
         {
@@ -199,6 +295,10 @@
             "total": 3097300,
             "male": 1558600,
             "female": 1538700
+          },
+          "employment": {
+            "employed": 2209300,
+            "unemployed": 887000
           }
         },
         {
@@ -207,6 +307,10 @@
             "total": 5413500,
             "male": 2701600,
             "female": 2711900
+          },
+          "employment": {
+            "employed": 3806900,
+            "unemployed": 1606600
           }
         },
         {
@@ -215,6 +319,10 @@
             "total": 5956900,
             "male": 3017100,
             "female": 2939800
+          },
+          "employment": {
+            "employed": 4427200,
+            "unemployed": 1529700
           }
         },
         {
@@ -223,6 +331,10 @@
             "total": 4611400,
             "male": 2306300,
             "female": 2305100
+          },
+          "employment": {
+            "employed": 3402500,
+            "unemployed": 1208900
           }
         },
         {
@@ -231,6 +343,10 @@
             "total": 4667300,
             "male": 2309600,
             "female": 2357700
+          },
+          "employment": {
+            "employed": 3423100,
+            "unemployed": 1244200
           }
         },
         {
@@ -239,6 +355,10 @@
             "total": 7633200,
             "male": 3825300,
             "female": 3807900
+          },
+          "employment": {
+            "employed": 5644100,
+            "unemployed": 1989100
           }
         },
         {
@@ -247,46 +367,70 @@
             "total": 4522900,
             "male": 2243300,
             "female": 2279600
+          },
+          "employment": {
+            "employed": 3349600,
+            "unemployed": 1173300
           }
         },
         {
           "name": "Rivers",
           "population": {
-            "total": 6333900,
-            "male": 3196300,
-            "female": 3137600
+            "total": 7246500,
+            "male": 3673900,
+            "female": 3572600
+          },
+          "employment": {
+            "employed": 5203700,
+            "unemployed": 2042800
           }
         },
         {
           "name": "Sokoto",
           "population": {
-            "total": 6114100,
-            "male": 3084200,
-            "female": 3029900
+            "total": 4829200,
+            "male": 2405900,
+            "female": 2423300
+          },
+          "employment": {
+            "employed": 3373300,
+            "unemployed": 1455900
           }
         },
         {
           "name": "Taraba",
           "population": {
-            "total": 2945700,
-            "male": 1487200,
-            "female": 1458500
+            "total": 3308100,
+            "male": 1656800,
+            "female": 1651300
+          },
+          "employment": {
+            "employed": 2282400,
+            "unemployed": 1025700
           }
         },
         {
           "name": "Yobe",
           "population": {
-            "total": 3539000,
-            "male": 1781900,
-            "female": 1757100
+            "total": 3527900,
+            "male": 1777900,
+            "female": 1750000
+          },
+          "employment": {
+            "employed": 2560100,
+            "unemployed": 967800
           }
         },
         {
           "name": "Zamfara",
           "population": {
-            "total": 4250500,
-            "male": 2148300,
-            "female": 2102200
+            "total": 4367800,
+            "male": 2193400,
+            "female": 2174400
+          },
+          "employment": {
+            "employed": 2922300,
+            "unemployed": 1445500
           }
         }
       ]
