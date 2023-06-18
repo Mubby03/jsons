@@ -1,0 +1,295 @@
+{
+    "Nigeria": {
+      "states": [
+        {
+          "name": "Abia",
+          "population": {
+            "total": 3178950,
+            "male": 1578700,
+            "female": 1600250
+          }
+        },
+        {
+          "name": "Adamawa",
+          "population": {
+            "total": 3805200,
+            "male": 1938700,
+            "female": 1866500
+          }
+        },
+        {
+          "name": "Akwa Ibom",
+          "population": {
+            "total": 5278400,
+            "male": 2665200,
+            "female": 2613200
+          }
+        },
+        {
+          "name": "Anambra",
+          "population": {
+            "total": 4487700,
+            "male": 2218700,
+            "female": 2269000
+          }
+        },
+        {
+          "name": "Bauchi",
+          "population": {
+            "total": 6583200,
+            "male": 3345800,
+            "female": 3237400
+          }
+        },
+        {
+          "name": "Bayelsa",
+          "population": {
+            "total": 2224200,
+            "male": 1128900,
+            "female": 1095300
+          }
+        },
+        {
+          "name": "Benue",
+          "population": {
+            "total": 6082000,
+            "male": 3032300,
+            "female": 3049700
+          }
+        },
+        {
+          "name": "Borno",
+          "population": {
+            "total": 6262600,
+            "male": 3175600,
+            "female": 3087000
+          }
+        },
+        {
+          "name": "Cross River",
+          "population": {
+            "total": 3910300,
+            "male": 1976300,
+            "female": 1934000
+          }
+        },
+        {
+          "name": "Delta",
+          "population": {
+            "total": 5586100,
+            "male": 2818300,
+            "female": 2767800
+          }
+        },
+        {
+          "name": "Ebonyi",
+          "population": {
+            "total": 2910500,
+            "male": 1455600,
+            "female": 1454900
+          }
+        },
+        {
+          "name": "Edo",
+          "population": {
+            "total": 4643600,
+            "male": 2348700,
+            "female": 2294900
+          }
+        },
+        {
+          "name": "Ekiti",
+          "population": {
+            "total": 2838700,
+            "male": 1423700,
+            "female": 1415000
+          }
+        },
+        {
+          "name": "Enugu",
+          "population": {
+            "total": 3967200,
+            "male": 1972400,
+            "female": 1994800
+          }
+        },
+        {
+          "name": "Gombe",
+          "population": {
+            "total": 2958000,
+            "male": 1484700,
+            "female": 1473300
+          }
+        },
+        {
+          "name": "Imo",
+          "population": {
+            "total": 4753400,
+            "male": 2367700,
+            "female": 2385700
+          }
+        },
+        {
+          "name": "Jigawa",
+          "population": {
+            "total": 5707800,
+            "male": 2907600,
+            "female": 2800200
+          }
+        },
+        {
+          "name": "Kaduna",
+          "population": {
+            "total": 8046800,
+            "male": 4070700,
+            "female": 3976100
+          }
+        },
+        {
+          "name": "Kano",
+          "population": {
+            "total": 14099000,
+            "male": 7094300,
+            "female": 7004700
+          }
+        },
+        {
+          "name": "Katsina",
+          "population": {
+            "total": 7822200,
+            "male": 3929200,
+            "female": 3893000
+          }
+        },
+        {
+          "name": "Kebbi",
+          "population": {
+            "total": 4645300,
+            "male": 2346300,
+            "female": 2299000
+          }
+        },
+        {
+          "name": "Kogi",
+          "population": {
+            "total": 4822700,
+            "male": 2420800,
+            "female": 2401900
+          }
+        },
+        {
+          "name": "Kwara",
+          "population": {
+            "total": 3413400,
+            "male": 1720100,
+            "female": 1693300
+          }
+        },
+        {
+          "name": "Lagos",
+          "population": {
+            "total": 13992000,
+            "male": 7065900,
+            "female": 6926100
+          }
+        },
+        {
+          "name": "Nasarawa",
+          "population": {
+            "total": 3097300,
+            "male": 1558600,
+            "female": 1538700
+          }
+        },
+        {
+          "name": "Niger",
+          "population": {
+            "total": 5413500,
+            "male": 2701600,
+            "female": 2711900
+          }
+        },
+        {
+          "name": "Ogun",
+          "population": {
+            "total": 5956900,
+            "male": 3017100,
+            "female": 2939800
+          }
+        },
+        {
+          "name": "Ondo",
+          "population": {
+            "total": 4611400,
+            "male": 2306300,
+            "female": 2305100
+          }
+        },
+        {
+          "name": "Osun",
+          "population": {
+            "total": 4667300,
+            "male": 2309600,
+            "female": 2357700
+          }
+        },
+        {
+          "name": "Oyo",
+          "population": {
+            "total": 7633200,
+            "male": 3825300,
+            "female": 3807900
+          }
+        },
+        {
+          "name": "Plateau",
+          "population": {
+            "total": 4522900,
+            "male": 2243300,
+            "female": 2279600
+          }
+        },
+        {
+          "name": "Rivers",
+          "population": {
+            "total": 6333900,
+            "male": 3196300,
+            "female": 3137600
+          }
+        },
+        {
+          "name": "Sokoto",
+          "population": {
+            "total": 6114100,
+            "male": 3084200,
+            "female": 3029900
+          }
+        },
+        {
+          "name": "Taraba",
+          "population": {
+            "total": 2945700,
+            "male": 1487200,
+            "female": 1458500
+          }
+        },
+        {
+          "name": "Yobe",
+          "population": {
+            "total": 3539000,
+            "male": 1781900,
+            "female": 1757100
+          }
+        },
+        {
+          "name": "Zamfara",
+          "population": {
+            "total": 4250500,
+            "male": 2148300,
+            "female": 2102200
+          }
+        }
+      ]
+    }
+  }
+  
