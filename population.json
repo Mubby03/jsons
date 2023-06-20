@@ -25,7 +25,8 @@
         },
         "employment": {
           "employed": 2210800,
-          "unemployed": 968150
+          "unemployed": 968150,
+          "gdp":12345
         }
       }
     ]
