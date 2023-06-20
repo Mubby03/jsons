@@ -1,688 +1,703 @@
 {
-  "states": [
-    {
-      "name": "Abia",
-      "population": {
-        "total": 39810000,
-        "male": 19855000,
-        "female": 19955000
-      },
-      "employment": {
-        "employed": 27428000,
-        "unemployed": 10682000,
-        "gdp": 1958000000000
-      },
-      "demograph": {
-        "dependency": 20523200,
-        "labourforce": 19011000,
-        "retirement": 4910200,
-        "others": 10989400
-      }
+  "Nigeria": {
+    "nigeriaurbanization": {
+      "2011": "44.37",
+      "2012": "45.25",
+      "2013": "46.12",
+      "2014": "46.98",
+      "2015": "47.84",
+      "2016": "48.68",
+      "2017": "49.52",
+      "2018": "50.34",
+      "2019": "51.16",
+      "2020": "51.996",
+      "2021": "52.75"
     },
-    {
-      "name": "Adamawa",
-      "population": {
-        "total": 23140000,
-        "male": 11738000,
-        "female": 11402000
+    "states": [
+      {
+        "name": "Abia",
+        "population": {
+          "total": 39810000,
+          "male": 19855000,
+          "female": 19955000
+        },
+        "employment": {
+          "employed": 27428000,
+          "unemployed": 10682000,
+          "gdp": 1958000000000
+        },
+        "demograph": {
+          "dependency": 20523200,
+          "labourforce": 19011000,
+          "retirement": 4910200,
+          "others": 10989400
+        }
       },
-      "employment": {
-        "employed": 14719000,
-        "unemployed": 8421000,
-        "gdp": 441900000000
+      {
+        "name": "Adamawa",
+        "population": {
+          "total": 23140000,
+          "male": 11738000,
+          "female": 11402000
+        },
+        "employment": {
+          "employed": 14719000,
+          "unemployed": 8421000,
+          "gdp": 441900000000
+        },
+        "demograph": {
+          "dependency": 11368160,
+          "labourforce": 9702000,
+          "retirement": 2321600,
+          "others": 6046400
+        }
       },
-      "demograph": {
-        "dependency": 11368160,
-        "labourforce": 9702000,
-        "retirement": 2321600,
-        "others": 6046400
+      {
+        "name": "Akwa Ibom",
+        "population": {
+          "total": 6100000,
+          "male": 3108000,
+          "female": 2992000
+        },
+        "employment": {
+          "employed": 4350000,
+          "unemployed": 1750000,
+          "gdp": 441800000000
+        },
+        "demograph": {
+          "dependency": 2992000,
+          "labourforce": 2875000,
+          "retirement": 125000,
+          "others": 1037000
+        }
+      },
+      {
+        "name": "Anambra",
+        "population": {
+          "total": 14884000,
+          "male": 7474000,
+          "female": 7410000
+        },
+        "employment": {
+          "employed": 9819000,
+          "unemployed": 5065000,
+          "gdp": 302500000000
+        },
+        "demograph": {
+          "dependency": 6321600,
+          "labourforce": 6714000,
+          "retirement": 481500,
+          "others": 5130000
+        }
+      },
+      {
+        "name": "Bauchi",
+        "population": {
+          "total": 6583200,
+          "male": 3345800,
+          "female": 3237400
+        },
+        "employment": {
+          "employed": 4229500,
+          "unemployed": 2353700,
+          "gdp": 545600000000
+        },
+        "demograph": {
+          "dependency": 3860096,
+          "labourforce": 1878300,
+          "retirement": 980300,
+          "others": 1008996
+        }
+      },
+      {
+        "name": "Bayelsa",
+        "population": {
+          "total": 2170500,
+          "male": 1096200,
+          "female": 1074300
+        },
+        "employment": {
+          "employed": 1632600,
+          "unemployed": 537900,
+          "gdp": 252600000000
+        },
+        "demograph": {
+          "dependency": 1398704,
+          "labourforce": 766700,
+          "retirement": 443480,
+          "others": 488524
+        }
+      },
+      {
+        "name": "Benue",
+        "population": {
+          "total": 11095000,
+          "male": 5600000,
+          "female": 5495000
+        },
+        "employment": {
+          "employed": 7378000,
+          "unemployed": 3727000,
+          "gdp": 504300000000
+        },
+        "demograph": {
+          "dependency": 5782200,
+          "labourforce": 5604700,
+          "retirement": 3928700,
+          "others": 1853500
+        }
+      },
+      {
+        "name": "Borno",
+        "population": {
+          "total": 7066000,
+          "male": 3537500,
+          "female": 3528500
+        },
+        "employment": {
+          "employed": 4634000,
+          "unemployed": 2432000,
+          "gdp": 373200000000
+        },
+        "demograph": {
+          "dependency": 4047400,
+          "labourforce": 3244800,
+          "retirement": 1216000,
+          "others": 1592000
+        }
+      },
+      {
+        "name": "Cross River",
+        "population": {
+          "total": 3761000,
+          "male": 1894500,
+          "female": 1866500
+        },
+        "employment": {
+          "employed": 2673000,
+          "unemployed": 1088000,
+          "gdp": 447000000000
+        },
+        "demograph": {
+          "dependency": 1769660,
+          "labourforce": 1766300,
+          "retirement": 234840,
+          "others": 1258350
+        }
+      },
+      {
+        "name": "Delta",
+        "population": {
+          "total": 5074300,
+          "male": 2571500,
+          "female": 2502800
+        },
+        "employment": {
+          "employed": 3704500,
+          "unemployed": 1369800,
+          "gdp": 698200000000
+        },
+        "demograph": {
+          "dependency": 2910584,
+          "labourforce": 2331700,
+          "retirement": 480800,
+          "others": 905084
+        }
+      },
+      {
+        "name": "Ebonyi",
+        "population": {
+          "total": 3238000,
+          "male": 1627000,
+          "female": 1611000
+        },
+        "employment": {
+          "employed": 2171000,
+          "unemployed": 1067000,
+          "gdp": 298400000000
+        },
+        "demograph": {
+          "dependency": 2030040,
+          "labourforce": 1957000,
+          "retirement": 205460,
+          "others": 1228980
+        }
+      },
+      {
+        "name": "Edo",
+        "population": {
+          "total": 5580000,
+          "male": 2818000,
+          "female": 2762000
+        },
+        "employment": {
+          "employed": 4052000,
+          "unemployed": 1528000,
+          "gdp": 604500000000
+        },
+        "demograph": {
+          "dependency": 2762000,
+          "labourforce": 3130000,
+          "retirement": 187800,
+          "others": 1030200
+        }
+      },
+      {
+        "name": "Ekiti",
+        "population": {
+          "total": 2750000,
+          "male": 1396000,
+          "female": 1354000
+        },
+        "employment": {
+          "employed": 1907000,
+          "unemployed": 843000,
+          "gdp": 373100000000
+        },
+        "demograph": {
+          "dependency": 1027240,
+          "labourforce": 1431000,
+          "retirement": 205480,
+          "others": 660760
+        }
+      },
+      {
+        "name": "Enugu",
+        "population": {
+          "total": 4615000,
+          "male": 2315500,
+          "female": 2299500
+        },
+        "employment": {
+          "employed": 3016500,
+          "unemployed": 1598500,
+          "gdp": 420000000000
+        },
+        "demograph": {
+          "dependency": 2246090,
+          "labourforce": 2618000,
+          "retirement": 301300,
+          "others": 1676790
+        }
+      },
+      {
+        "name": "Gombe",
+        "population": {
+          "total": 2904000,
+          "male": 1481300,
+          "female": 1422700
+        },
+        "employment": {
+          "employed": 2049000,
+          "unemployed": 854000,
+          "gdp": 343400000000
+        },
+        "demograph": {
+          "dependency": 1536460,
+          "labourforce": 1440400,
+          "retirement": 100680,
+          "others": 843060
+        }
+      },
+      {
+        "name": "Imo",
+        "population": {
+          "total": 6171000,
+          "male": 3103000,
+          "female": 3068000
+        },
+        "employment": {
+          "employed": 4168000,
+          "unemployed": 2003000,
+          "gdp": 400600000000
+        },
+        "demograph": {
+          "dependency": 1752400,
+          "labourforce": 2165000,
+          "retirement": 492600,
+          "others": 1325000
+        }
+      },
+      {
+        "name": "Jigawa",
+        "population": {
+          "total": 8676000,
+          "male": 4387900,
+          "female": 4288100
+        },
+        "employment": {
+          "employed": 5182700,
+          "unemployed": 3493300,
+          "gdp": 509500000000
+        },
+        "demograph": {
+          "dependency": 3745080,
+          "labourforce": 5175900,
+          "retirement": 162020,
+          "others": 1980850
+        }
+      },
+      {
+        "name": "Kaduna",
+        "population": {
+          "total": 7296000,
+          "male": 3694600,
+          "female": 3601400
+        },
+        "employment": {
+          "employed": 4686100,
+          "unemployed": 2609900,
+          "gdp": 827200000000
+        },
+        "demograph": {
+          "dependency": 3669760,
+          "labourforce": 5327800,
+          "retirement": 1450100,
+          "others": 1943140
+        }
+      },
+      {
+        "name": "Kano",
+        "population": {
+          "total": 15000000,
+          "male": 7555000,
+          "female": 7445000
+        },
+        "employment": {
+          "employed": 10924000,
+          "unemployed": 4076000,
+          "gdp": 1366000000000
+        },
+        "demograph": {
+          "dependency": 4862580,
+          "labourforce": 6850000,
+          "retirement": 772400,
+          "others": 2850180
+        }
+      },
+      {
+        "name": "Katsina",
+        "population": {
+          "total": 7790000,
+          "male": 3946000,
+          "female": 3844000
+        },
+        "employment": {
+          "employed": 5292500,
+          "unemployed": 2497500,
+          "gdp": 431600000000
+        },
+        "demograph": {
+          "dependency": 2622100,
+          "labourforce": 3881200,
+          "retirement": 238600,
+          "others": 1047500
+        }
+      },
+      {
+        "name": "Kebbi",
+        "population": {
+          "total": 4566000,
+          "male": 2307000,
+          "female": 2259000
+        },
+        "employment": {
+          "employed": 3126000,
+          "unemployed": 1440000,
+          "gdp": 326500000000
+        },
+        "demograph": {
+          "dependency": 1731630,
+          "labourforce": 2445000,
+          "retirement": 133740,
+          "others": 1402360
+        }
+      },
+      {
+        "name": "Kogi",
+        "population": {
+          "total": 6785000,
+          "male": 3417000,
+          "female": 3368000
+        },
+        "employment": {
+          "employed": 4341000,
+          "unemployed": 2444000,
+          "gdp": 484900000000
+        },
+        "demograph": {
+          "dependency": 2926200,
+          "labourforce": 3455200,
+          "retirement": 193500,
+          "others": 1320900
+        }
+      },
+      {
+        "name": "Kwara",
+        "population": {
+          "total": 4222000,
+          "male": 2138600,
+          "female": 2083400
+        },
+        "employment": {
+          "employed": 3055800,
+          "unemployed": 1166200,
+          "gdp": 406300000000
+        },
+        "demograph": {
+          "dependency": 1044700,
+          "labourforce": 2657600,
+          "retirement": 135100,
+          "others": 976900
+        }
+      },
+      {
+        "name": "Lagos",
+        "population": {
+          "total": 16060303,
+          "male": 8325400,
+          "female": 7734903
+        },
+        "employment": {
+          "employed": 11938000,
+          "unemployed": 4123000,
+          "gdp": 15757000000000
+        },
+        "demograph": {
+          "dependency": 3242821,
+          "labourforce": 14561000,
+          "retirement": 1672700,
+          "others": 1593648
+        }
+      },
+      {
+        "name": "Nasarawa",
+        "population": {
+          "total": 2924000,
+          "male": 1473900,
+          "female": 1450100
+        },
+        "employment": {
+          "employed": 2016400,
+          "unemployed": 908000,
+          "gdp": 365200000000
+        },
+        "demograph": {
+          "dependency": 764040,
+          "labourforce": 1819000,
+          "retirement": 78440,
+          "others": 1005600
+        }
+      },
+      {
+        "name": "Niger",
+        "population": {
+          "total": 8926000,
+          "male": 4532000,
+          "female": 4394000
+        },
+        "employment": {
+          "employed": 5730000,
+          "unemployed": 3196000,
+          "gdp": 415300000000
+        },
+        "demograph": {
+          "dependency": 3574220,
+          "labourforce": 5264000,
+          "retirement": 359600,
+          "others": 1566000
+        }
+      },
+      {
+        "name": "Ogun",
+        "population": {
+          "total": 6511000,
+          "male": 3313000,
+          "female": 3198000
+        },
+        "employment": {
+          "employed": 4686000,
+          "unemployed": 1825000,
+          "gdp": 522400000000
+        },
+        "demograph": {
+          "dependency": 1438500,
+          "labourforce": 3506000,
+          "retirement": 178000,
+          "others": 1353500
+        }
+      },
+      {
+        "name": "Ondo",
+        "population": {
+          "total": 5586000,
+          "male": 2809600,
+          "female": 2776400
+        },
+        "employment": {
+          "employed": 3934000,
+          "unemployed": 1652000,
+          "gdp": 413000000000
+        },
+        "demograph": {
+          "dependency": 1333820,
+          "labourforce": 3358800,
+          "retirement": 169640,
+          "others": 1525360
+        }
+      },
+      {
+        "name": "Osun",
+        "population": {
+          "total": 4866000,
+          "male": 2458600,
+          "female": 2407400
+        },
+        "employment": {
+          "employed": 3476000,
+          "unemployed": 1390000,
+          "gdp": 386600000000
+        },
+        "demograph": {
+          "dependency": 1048270,
+          "labourforce": 2376000,
+          "retirement": 209420,
+          "others": 985810
+        }
+      },
+      {
+        "name": "Oyo",
+        "population": {
+          "total": 7747000,
+          "male": 3942000,
+          "female": 3805000
+        },
+        "employment": {
+          "employed": 5586000,
+          "unemployed": 2161000,
+          "gdp": 906500000000
+        },
+        "demograph": {
+          "dependency": 1904150,
+          "labourforce": 6217000,
+          "retirement": 322250,
+          "others": 2169800
+        }
+      },
+      {
+        "name": "Plateau",
+        "population": {
+          "total": 4911000,
+          "male": 2457800,
+          "female": 2453200
+        },
+        "employment": {
+          "employed": 3479000,
+          "unemployed": 1432000,
+          "gdp": 376100000000
+        },
+        "demograph": {
+          "dependency": 1037960,
+          "labourforce": 2521000,
+          "retirement": 214880,
+          "others": 1164160
+        }
+      },
+      {
+        "name": "Rivers",
+        "population": {
+          "total": 8237000,
+          "male": 4174600,
+          "female": 4062400
+        },
+        "employment": {
+          "employed": 5943000,
+          "unemployed": 2294000,
+          "gdp": 696900000000
+        },
+        "demograph": {
+          "dependency": 2274480,
+          "labourforce": 5391000,
+          "retirement": 634480,
+          "others": 1956840
+        }
+      },
+      {
+        "name": "Sokoto",
+        "population": {
+          "total": 6546000,
+          "male": 3289500,
+          "female": 3256500
+        },
+        "employment": {
+          "employed": 4330000,
+          "unemployed": 2216000,
+          "gdp": 359100000000
+        },
+        "demograph": {
+          "dependency": 2420400,
+          "labourforce": 3719600,
+          "retirement": 220420,
+          "others": 1476180
+        }
+      },
+      {
+        "name": "Taraba",
+        "population": {
+          "total": 3460000,
+          "male": 1750800,
+          "female": 1709200
+        },
+        "employment": {
+          "employed": 2289000,
+          "unemployed": 1171000,
+          "gdp": 321500000000
+        },
+        "demograph": {
+          "dependency": 1246200,
+          "labourforce": 1907800,
+          "retirement": 88680,
+          "others": 940720
+        }
+      },
+      {
+        "name": "Yobe",
+        "population": {
+          "total": 4033000,
+          "male": 2026800,
+          "female": 2006200
+        },
+        "employment": {
+          "employed": 2652000,
+          "unemployed": 1381000,
+          "gdp": 276300000000
+        },
+        "demograph": {
+          "dependency": 1220800,
+          "labourforce": 2365400,
+          "retirement": 61520,
+          "others": 1021000
+        }
+      },
+      {
+        "name": "Zamfara",
+        "population": {
+          "total": 4076000,
+          "male": 2061500,
+          "female": 2014500
+        },
+        "employment": {
+          "employed": 2730000,
+          "unemployed": 1346000,
+          "gdp": 300200000000
+        },
+        "demograph": {
+          "dependency": 1107520,
+          "labourforce": 2189600,
+          "retirement": 55120,
+          "others": 1171920
+        }
       }
-    },
-    {
-      "name": "Akwa Ibom",
-      "population": {
-        "total": 6100000,
-        "male": 3108000,
-        "female": 2992000
-      },
-      "employment": {
-        "employed": 4350000,
-        "unemployed": 1750000,
-        "gdp": 441800000000
-      },
-      "demograph": {
-        "dependency": 2992000,
-        "labourforce": 2875000,
-        "retirement": 125000,
-        "others": 1037000
-      }
-    },
-    {
-      "name": "Anambra",
-      "population": {
-        "total": 14884000,
-        "male": 7474000,
-        "female": 7410000
-      },
-      "employment": {
-        "employed": 9819000,
-        "unemployed": 5065000,
-        "gdp": 302500000000
-      },
-      "demograph": {
-        "dependency": 6321600,
-        "labourforce": 6714000,
-        "retirement": 481500,
-        "others": 5130000
-      }
-    },
-    {
-      "name": "Bauchi",
-      "population": {
-        "total": 6583200,
-        "male": 3345800,
-        "female": 3237400
-      },
-      "employment": {
-        "employed": 4229500,
-        "unemployed": 2353700,
-        "gdp": 545600000000
-      },
-      "demograph": {
-        "dependency": 3860096,
-        "labourforce": 1878300,
-        "retirement": 980300,
-        "others": 1008996
-      }
-    },
-    {
-      "name": "Bayelsa",
-      "population": {
-        "total": 2170500,
-        "male": 1096200,
-        "female": 1074300
-      },
-      "employment": {
-        "employed": 1632600,
-        "unemployed": 537900,
-        "gdp": 252600000000
-      },
-      "demograph": {
-        "dependency": 1398704,
-        "labourforce": 766700,
-        "retirement": 443480,
-        "others": 488524
-      }
-    },
-    {
-      "name": "Benue",
-      "population": {
-        "total": 11095000,
-        "male": 5600000,
-        "female": 5495000
-      },
-      "employment": {
-        "employed": 7378000,
-        "unemployed": 3727000,
-        "gdp": 504300000000
-      },
-      "demograph": {
-        "dependency": 5782200,
-        "labourforce": 5604700,
-        "retirement": 3928700,
-        "others": 1853500
-      }
-    },
-    {
-      "name": "Borno",
-      "population": {
-        "total": 7066000,
-        "male": 3537500,
-        "female": 3528500
-      },
-      "employment": {
-        "employed": 4634000,
-        "unemployed": 2432000,
-        "gdp": 373200000000
-      },
-      "demograph": {
-        "dependency": 4047400,
-        "labourforce": 3244800,
-        "retirement": 1216000,
-        "others": 1592000
-      }
-    },
-    {
-      "name": "Cross River",
-      "population": {
-        "total": 3761000,
-        "male": 1894500,
-        "female": 1866500
-      },
-      "employment": {
-        "employed": 2673000,
-        "unemployed": 1088000,
-        "gdp": 447000000000
-      },
-      "demograph": {
-        "dependency": 1769660,
-        "labourforce": 1766300,
-        "retirement": 234840,
-        "others": 1258350
-      }
-    },
-    {
-      "name": "Delta",
-      "population": {
-        "total": 5074300,
-        "male": 2571500,
-        "female": 2502800
-      },
-      "employment": {
-        "employed": 3704500,
-        "unemployed": 1369800,
-        "gdp": 698200000000
-      },
-      "demograph": {
-        "dependency": 2910584,
-        "labourforce": 2331700,
-        "retirement": 480800,
-        "others": 905084
-      }
-    },
-    {
-      "name": "Ebonyi",
-      "population": {
-        "total": 3238000,
-        "male": 1627000,
-        "female": 1611000
-      },
-      "employment": {
-        "employed": 2171000,
-        "unemployed": 1067000,
-        "gdp": 298400000000
-      },
-      "demograph": {
-        "dependency": 2030040,
-        "labourforce": 1957000,
-        "retirement": 205460,
-        "others": 1228980
-      }
-    },
-    {
-      "name": "Edo",
-      "population": {
-        "total": 5580000,
-        "male": 2818000,
-        "female": 2762000
-      },
-      "employment": {
-        "employed": 4052000,
-        "unemployed": 1528000,
-        "gdp": 604500000000
-      },
-      "demograph": {
-        "dependency": 2762000,
-        "labourforce": 3130000,
-        "retirement": 187800,
-        "others": 1030200
-      }
-    },
-    {
-      "name": "Ekiti",
-      "population": {
-        "total": 2750000,
-        "male": 1396000,
-        "female": 1354000
-      },
-      "employment": {
-        "employed": 1907000,
-        "unemployed": 843000,
-        "gdp": 373100000000
-      },
-      "demograph": {
-        "dependency": 1027240,
-        "labourforce": 1431000,
-        "retirement": 205480,
-        "others": 660760
-      }
-    },
-    {
-      "name": "Enugu",
-      "population": {
-        "total": 4615000,
-        "male": 2315500,
-        "female": 2299500
-      },
-      "employment": {
-        "employed": 3016500,
-        "unemployed": 1598500,
-        "gdp": 420000000000
-      },
-      "demograph": {
-        "dependency": 2246090,
-        "labourforce": 2618000,
-        "retirement": 301300,
-        "others": 1676790
-      }
-    },
-    {
-      "name": "Gombe",
-      "population": {
-        "total": 2904000,
-        "male": 1481300,
-        "female": 1422700
-      },
-      "employment": {
-        "employed": 2049000,
-        "unemployed": 854000,
-        "gdp": 343400000000
-      },
-      "demograph": {
-        "dependency": 1536460,
-        "labourforce": 1440400,
-        "retirement": 100680,
-        "others": 843060
-      }
-    },
-    {
-      "name": "Imo",
-      "population": {
-        "total": 6171000,
-        "male": 3103000,
-        "female": 3068000
-      },
-      "employment": {
-        "employed": 4168000,
-        "unemployed": 2003000,
-        "gdp": 400600000000
-      },
-      "demograph": {
-        "dependency": 1752400,
-        "labourforce": 2165000,
-        "retirement": 492600,
-        "others": 1325000
-      }
-    },
-    {
-      "name": "Jigawa",
-      "population": {
-        "total": 8676000,
-        "male": 4387900,
-        "female": 4288100
-      },
-      "employment": {
-        "employed": 5182700,
-        "unemployed": 3493300,
-        "gdp": 509500000000
-      },
-      "demograph": {
-        "dependency": 3745080,
-        "labourforce": 5175900,
-        "retirement": 162020,
-        "others": 1980850
-      }
-    },
-    {
-      "name": "Kaduna",
-      "population": {
-        "total": 7296000,
-        "male": 3694600,
-        "female": 3601400
-      },
-      "employment": {
-        "employed": 4686100,
-        "unemployed": 2609900,
-        "gdp": 827200000000
-      },
-      "demograph": {
-        "dependency": 3669760,
-        "labourforce": 5327800,
-        "retirement": 1450100,
-        "others": 1943140
-      }
-    },
-    {
-      "name": "Kano",
-      "population": {
-        "total": 15000000,
-        "male": 7555000,
-        "female": 7445000
-      },
-      "employment": {
-        "employed": 10924000,
-        "unemployed": 4076000,
-        "gdp": 1366000000000
-      },
-      "demograph": {
-        "dependency": 4862580,
-        "labourforce": 6850000,
-        "retirement": 772400,
-        "others": 2850180
-      }
-    },
-    {
-      "name": "Katsina",
-      "population": {
-        "total": 7790000,
-        "male": 3946000,
-        "female": 3844000
-      },
-      "employment": {
-        "employed": 5292500,
-        "unemployed": 2497500,
-        "gdp": 431600000000
-      },
-      "demograph": {
-        "dependency": 2622100,
-        "labourforce": 3881200,
-        "retirement": 238600,
-        "others": 1047500
-      }
-    },
-    {
-      "name": "Kebbi",
-      "population": {
-        "total": 4566000,
-        "male": 2307000,
-        "female": 2259000
-      },
-      "employment": {
-        "employed": 3126000,
-        "unemployed": 1440000,
-        "gdp": 326500000000
-      },
-      "demograph": {
-        "dependency": 1731630,
-        "labourforce": 2445000,
-        "retirement": 133740,
-        "others": 1402360
-      }
-    },
-    {
-      "name": "Kogi",
-      "population": {
-        "total": 6785000,
-        "male": 3417000,
-        "female": 3368000
-      },
-      "employment": {
-        "employed": 4341000,
-        "unemployed": 2444000,
-        "gdp": 484900000000
-      },
-      "demograph": {
-        "dependency": 2926200,
-        "labourforce": 3455200,
-        "retirement": 193500,
-        "others": 1320900
-      }
-    },
-    {
-      "name": "Kwara",
-      "population": {
-        "total": 4222000,
-        "male": 2138600,
-        "female": 2083400
-      },
-      "employment": {
-        "employed": 3055800,
-        "unemployed": 1166200,
-        "gdp": 406300000000
-      },
-      "demograph": {
-        "dependency": 1044700,
-        "labourforce": 2657600,
-        "retirement": 135100,
-        "others": 976900
-      }
-    },
-    {
-      "name": "Lagos",
-      "population": {
-        "total": 16060303,
-        "male": 8325400,
-        "female": 7734903
-      },
-      "employment": {
-        "employed": 11938000,
-        "unemployed": 4123000,
-        "gdp": 15757000000000
-      },
-      "demograph": {
-        "dependency": 3242821,
-        "labourforce": 14561000,
-        "retirement": 1672700,
-        "others": 1593648
-      }
-    },
-    {
-      "name": "Nasarawa",
-      "population": {
-        "total": 2924000,
-        "male": 1473900,
-        "female": 1450100
-      },
-      "employment": {
-        "employed": 2016400,
-        "unemployed": 908000,
-        "gdp": 365200000000
-      },
-      "demograph": {
-        "dependency": 764040,
-        "labourforce": 1819000,
-        "retirement": 78440,
-        "others": 1005600
-      }
-    },
-    {
-      "name": "Niger",
-      "population": {
-        "total": 8926000,
-        "male": 4532000,
-        "female": 4394000
-      },
-      "employment": {
-        "employed": 5730000,
-        "unemployed": 3196000,
-        "gdp": 415300000000
-      },
-      "demograph": {
-        "dependency": 3574220,
-        "labourforce": 5264000,
-        "retirement": 359600,
-        "others": 1566000
-      }
-    },
-    {
-      "name": "Ogun",
-      "population": {
-        "total": 6511000,
-        "male": 3313000,
-        "female": 3198000
-      },
-      "employment": {
-        "employed": 4686000,
-        "unemployed": 1825000,
-        "gdp": 522400000000
-      },
-      "demograph": {
-        "dependency": 1438500,
-        "labourforce": 3506000,
-        "retirement": 178000,
-        "others": 1353500
-      }
-    },
-    {
-      "name": "Ondo",
-      "population": {
-        "total": 5586000,
-        "male": 2809600,
-        "female": 2776400
-      },
-      "employment": {
-        "employed": 3934000,
-        "unemployed": 1652000,
-        "gdp": 413000000000
-      },
-      "demograph": {
-        "dependency": 1333820,
-        "labourforce": 3358800,
-        "retirement": 169640,
-        "others": 1525360
-      }
-    },
-    {
-      "name": "Osun",
-      "population": {
-        "total": 4866000,
-        "male": 2458600,
-        "female": 2407400
-      },
-      "employment": {
-        "employed": 3476000,
-        "unemployed": 1390000,
-        "gdp": 386600000000
-      },
-      "demograph": {
-        "dependency": 1048270,
-        "labourforce": 2376000,
-        "retirement": 209420,
-        "others": 985810
-      }
-    },
-    {
-      "name": "Oyo",
-      "population": {
-        "total": 7747000,
-        "male": 3942000,
-        "female": 3805000
-      },
-      "employment": {
-        "employed": 5586000,
-        "unemployed": 2161000,
-        "gdp": 906500000000
-      },
-      "demograph": {
-        "dependency": 1904150,
-        "labourforce": 6217000,
-        "retirement": 322250,
-        "others": 2169800
-      }
-    },
-    {
-      "name": "Plateau",
-      "population": {
-        "total": 4911000,
-        "male": 2457800,
-        "female": 2453200
-      },
-      "employment": {
-        "employed": 3479000,
-        "unemployed": 1432000,
-        "gdp": 376100000000
-      },
-      "demograph": {
-        "dependency": 1037960,
-        "labourforce": 2521000,
-        "retirement": 214880,
-        "others": 1164160
-      }
-    },
-    {
-      "name": "Rivers",
-      "population": {
-        "total": 8237000,
-        "male": 4174600,
-        "female": 4062400
-      },
-      "employment": {
-        "employed": 5943000,
-        "unemployed": 2294000,
-        "gdp": 696900000000
-      },
-      "demograph": {
-        "dependency": 2274480,
-        "labourforce": 5391000,
-        "retirement": 634480,
-        "others": 1956840
-      }
-    },
-    {
-      "name": "Sokoto",
-      "population": {
-        "total": 6546000,
-        "male": 3289500,
-        "female": 3256500
-      },
-      "employment": {
-        "employed": 4330000,
-        "unemployed": 2216000,
-        "gdp": 359100000000
-      },
-      "demograph": {
-        "dependency": 2420400,
-        "labourforce": 3719600,
-        "retirement": 220420,
-        "others": 1476180
-      }
-    },
-    {
-      "name": "Taraba",
-      "population": {
-        "total": 3460000,
-        "male": 1750800,
-        "female": 1709200
-      },
-      "employment": {
-        "employed": 2289000,
-        "unemployed": 1171000,
-        "gdp": 321500000000
-      },
-      "demograph": {
-        "dependency": 1246200,
-        "labourforce": 1907800,
-        "retirement": 88680,
-        "others": 940720
-      }
-    },
-    {
-      "name": "Yobe",
-      "population": {
-        "total": 4033000,
-        "male": 2026800,
-        "female": 2006200
-      },
-      "employment": {
-        "employed": 2652000,
-        "unemployed": 1381000,
-        "gdp": 276300000000
-      },
-      "demograph": {
-        "dependency": 1220800,
-        "labourforce": 2365400,
-        "retirement": 61520,
-        "others": 1021000
-      }
-    },
-    {
-      "name": "Zamfara",
-      "population": {
-        "total": 4076000,
-        "male": 2061500,
-        "female": 2014500
-      },
-      "employment": {
-        "employed": 2730000,
-        "unemployed": 1346000,
-        "gdp": 300200000000
-      },
-      "demograph": {
-        "dependency": 1107520,
-        "labourforce": 2189600,
-        "retirement": 55120,
-        "others": 1171920
-      }
-    }
-  ]
+    ]
+  }
 }
