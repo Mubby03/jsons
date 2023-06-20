@@ -21,12 +21,13 @@
         "population": {
           "total": 3178950,
           "male": 1578700,
-          "female": 1600250
+          "female": 1600250,
+           "gdp":12345
         },
         "employment": {
           "employed": 2210800,
-          "unemployed": 968150,
-          "gdp":12345
+          "unemployed": 968150
+         
         }
       }
     ]
