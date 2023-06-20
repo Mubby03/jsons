@@ -20,15 +20,17 @@
           "total": 3178950,
           "male": 1578700,
           "female": 1600250,
-          "gdpvalue": 251100000000,
-          "dependency": 2234008,
-          "labourforce": 1316504,
-          "retirement": 726256,
-          "others": 907032
+          "gdpvalue": 251100000000
         },
         "employment": {
           "employed": 2210800,
           "unemployed": 968150
+        },
+        "demography": {
+          "dependency": 2234008,
+          "labourforce": 1316504,
+          "retirement": 726256,
+          "others": 907032
         }
       }
     ]
